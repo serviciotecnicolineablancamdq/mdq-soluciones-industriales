@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Página principal -->
+  <url>
+    <loc>https://serviciotecnicolineablancamdq.github.io/mdq-soluciones-industriales/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Subpáginas de servicios -->
+  <url>
+    <loc>https://serviciotecnicolineablancamdq.github.io/mdq-soluciones-industriales/refrigeracion-comercial.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://serviciotecnicolineablancamdq.github.io/mdq-soluciones-industriales/electromecanica-motores.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://serviciotecnicolineablancamdq.github.io/mdq-soluciones-industriales/tableros-automatizacion.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://serviciotecnicolineablancamdq.github.io/mdq-soluciones-industriales/mantenimiento-preventivo.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
+
