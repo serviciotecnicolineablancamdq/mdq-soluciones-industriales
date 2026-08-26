@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://serviciotecnicolineablancamdq.github.io/mdq-soluciones-industriales/sitemap.xml
